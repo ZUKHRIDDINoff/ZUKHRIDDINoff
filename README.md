@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about anything, you interested in 
-- 📫 How to reach me: [Telegram: @zrd.me](https://t.me/zrd_me)
+- 📫 How to reach me: [Telegram: @zrdme](https://t.me/zrdme)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost an hour to play Counter-Strike
 
