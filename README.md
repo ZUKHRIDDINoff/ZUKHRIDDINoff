@@ -1,6 +1,6 @@
 ### Hi, I am Zuxriddin Baratov! 👋
 
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m NodeJs developer
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about anything, you interested in 
 - 📫 How to reach me: [Telegram: @zrdme](https://t.me/zrdme)
